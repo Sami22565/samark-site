@@ -1,32 +1,17 @@
-Samark
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Samark Marketing Website
 
+Welcome to **Samark**—a digital marketing brand built on clarity, creativity, and conversion. This repository houses the code for our official site, designed using the **Massively** template by [HTML5 UP](https://html5up.net), and hosted on GitHub Pages.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## 🌐 Live Site
+[www.samarkmarketing.com](http://www.samarkmarketing.com)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🔧 Features
+- Responsive one-page layout for desktop and mobile
+- Sections for services, portfolio, about, and contact
+- Custom branding and domain integration
+- Fast-loading static assets and clean design
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 🚀 Built With
+- [HTML5 UP – Massively](https://html5up.net/massively) template
+- HTML5, CSS3
+- GitHub Pages for hosting
