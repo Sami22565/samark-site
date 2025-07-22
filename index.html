@@ -11,6 +11,23 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		@keyframes fadeInScale {
+		  0% {
+		    transform: scale(0.95);
+		    opacity: 0;
+		  }
+		  100% {
+		    transform: scale(1);
+		    opacity: 1;
+		  }
+		}
+
+		/* Mobile responsiveness */
+		@media screen and (max-width: 480px) {
+		  .logo-wrapper img {
+		    max-width: 70%;
+		  }
+		}
 	</head>
 	<body class="is-preload">
 
