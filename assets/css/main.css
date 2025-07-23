@@ -4687,3 +4687,16 @@ input, select, textarea {
 		}
 
 	}
+
+/* Custom Logo Styling */
+.custom-logo {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.custom-logo img {
+  max-width: 180px;
+  height: auto;
+  display: inline-block;
+}
