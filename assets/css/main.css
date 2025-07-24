@@ -4696,7 +4696,7 @@ input, select, textarea {
 }
 
 .custom-logo img {
-  max-width: 180px;
+  max-width: 200px;
   height: auto;
   display: inline-block;
 }
