@@ -4700,3 +4700,125 @@ input, select, textarea {
   height: auto;
   display: inline-block;
 }
+
+
+
+/* Mobile Optimization */
+/* === Mobile First Enhancements === */
+
+/* Fluid Root Font Scaling */
+html {
+  font-size: clamp(14px, 2vw, 16px);
+}
+
+/* Universal Box Sizing for Layout Consistency */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Touch-Friendly Buttons */
+.button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  min-width: 44px;
+  min-height: 44px;
+  display: block;
+  margin: 0.5rem auto;
+}
+
+/* Responsive Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Mobile Containers */
+.container, .row, .box, section, footer {
+  padding: 1rem;
+}
+
+/* Headline Scaling */
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.25rem; }
+
+/* Paragraph Readability */
+p {
+  margin-bottom: 1.25rem;
+  text-align: justify;
+}
+
+/* Layout Flex Fixes */
+.row {
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* Navigation + Footer Stack */
+nav ul, footer ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+}
+
+/* === Responsive Breakpoints === */
+
+@media screen and (max-width: 768px) {
+  .button {
+    width: 100%;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+
+  .container,
+  .box,
+  .row {
+    padding: 0.75rem;
+  }
+
+  .image.left,
+  .image.right {
+    float: none;
+    margin: 1rem auto;
+    display: block;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 15px;
+  }
+
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.25rem; }
+  p { font-size: 0.9rem; }
+
+  nav,
+  footer,
+  section {
+    padding: 0.5rem;
+    text-align: center;
+  }
+
+  .intro h1 {
+    font-size: 2.25rem;
+  }
+
+  .intro p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .row {
+    flex-direction: column;
+    padding: 0;
+    gap: 0.5rem;
+  }
+}
