@@ -4736,7 +4736,7 @@ img {
   display: block;
 }
 
-/* Mobile Containers */
+/* Mobile Containers *
 .container, .row, .box, section, footer {
   padding: 1rem;
 }
@@ -4752,7 +4752,7 @@ p {
   text-align: justify;
 }
 
-/* Layout Flex Fixes */
+/* Layout Flex Fixes *
 .row {
   flex-wrap: wrap;
   gap: 1rem;
