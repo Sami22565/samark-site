@@ -4711,7 +4711,7 @@ html {
   font-size: clamp(14px, 2vw, 16px);
 }
 
-/* Universal Box Sizing for Layout Consistency */
+/* Universal Box Sizing for Layout Consistency *
 *, *::before, *::after {
   box-sizing: border-box;
 }
