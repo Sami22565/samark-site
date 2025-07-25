@@ -4692,11 +4692,11 @@ input, select, textarea {
 .custom-logo {
   display: block !important;
   text-align: center;
-  margin: 250px 0;
+  margin: 200px 0;
 }
 
 .custom-logo img {
-  max-width: 500px;
+  max-width: 350px;
   height: auto;
   display: inline-block;
 }
