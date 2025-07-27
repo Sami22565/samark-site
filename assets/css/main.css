@@ -4865,3 +4865,49 @@ p {
 .icon-staff { background-image: url('staff-icon.svg'); background-size: cover; }
 .icon-agency { background-image: url('agency-icon.svg'); background-size: cover; }
 */
+
+/* Button CSS*/
+.samark-cta-container {
+  text-align: center;
+  margin: 2rem auto;
+  width: 100%;
+}
+
+.samark-actions {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.samark-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: clamp(1rem, 2.5vw, 1.3rem);
+  font-weight: bold;
+  color: #fff;
+  background-color: #2B7A78;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  white-space: nowrap;
+}
+
+.samark-button:hover {
+  background-color: #205e5e;
+}
+
+@media screen and (max-width: 600px) {
+  .samark-button {
+    width: 90%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+  }
+
+  .samark-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+}
