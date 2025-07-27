@@ -4867,7 +4867,7 @@ p {
 */
 
 /* button css*/
-.cta-button {
+.ctbb-button {
   display: inline-block;
   padding: 1rem 2rem;
   font-size: clamp(1rem, 2.5vw, 1.25rem);
@@ -4882,13 +4882,13 @@ p {
   white-space: nowrap;
 }
 
-.cta-button:hover {
+.ctbb-button:hover {
   background-color: #205e5e;
 }
 
 /* Responsive container */
 @media screen and (max-width: 600px) {
-  .cta-button {
+  .ctbb-button {
     width: 90%;
     padding: 0.75rem 1rem;
     font-size: 1rem;
