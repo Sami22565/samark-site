@@ -4865,3 +4865,43 @@ p {
 .icon-staff { background-image: url('staff-icon.svg'); background-size: cover; }
 .icon-agency { background-image: url('agency-icon.svg'); background-size: cover; }
 */
+
+/* CSS Button */
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  background-color: #2B7A78;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  white-space: nowrap;
+}
+
+.cta-button:hover {
+  background-color: #205e5e;
+}
+
+/* Responsive container */
+.actions.special {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+@media screen and (max-width: 600px) {
+  .cta-button {
+    width: 90%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+  }
+
+  .actions.special {
+    flex-direction: column;
+    align-items: center;
+  }
+}
