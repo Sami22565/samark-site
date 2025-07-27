@@ -4877,7 +4877,7 @@ p {
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
-  border: 2px solid #000;          /* Optional: adds definition */
+  border: 4px solid #000;          /* Optional: adds definition */
   cursor: pointer;
   transition: background-color 0.3s ease;
   white-space: normal;            /* Allows text to wrap on smaller screens */
