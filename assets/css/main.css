@@ -4814,3 +4814,52 @@ p {
     gap: 0.5rem;
   }
 } 
+
+/* Sectioned text */
+
+.marketing-options {
+  padding: 40px 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.options-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.option {
+  flex: 1 1 250px;
+  max-width: 320px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.option h3 {
+  margin: 15px 0;
+  font-size: 1.2rem;
+  color: #d60000;
+}
+
+.option p {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 15px;
+  background-color: #d60000;
+  border-radius: 50%;
+}
+
+/* Custom icon placeholders — you can replace these with SVGs or image URLs */
+.icon-yourself { background-image: url('yourself-icon.svg'); background-size: cover; }
+.icon-staff { background-image: url('staff-icon.svg'); background-size: cover; }
+.icon-agency { background-image: url('agency-icon.svg'); background-size: cover; }
