@@ -4870,26 +4870,30 @@ p {
 .samark-button {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  background-color: transparent;   /* ✅ Transparent background */
-  color: #000;                     /* ✅ Black text */
+  background-color: transparent;
+  color: #000;
   font-size: 1rem;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
-  border: 3px solid #000;          /* Optional: adds definition */
+  border: 2.4px solid #000;
   cursor: pointer;
-  transition: background-color 0.3s ease;
-  white-space: normal;            /* Allows text to wrap on smaller screens */
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  white-space: normal;
   max-width: 100%;
   box-sizing: border-box;
 }
 
-/* .samark-button:hover {
-  background-color: rgba(0, 0, 0, 0.05); 
-} */
+.samark-button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  border-color: #000; /* explicitly define to avoid flicker */
+}
 
 .samark-cta-container {
-  text-align: center;
-  padding: 0 1rem;
+  text-align: center;          /* Centers the content horizontally */
+  padding: 0 1rem;             /* Adds side breathing room on mobile */
+  margin: 2rem auto;           /* Vertical spacing and center alignment */
+  max-width: 700px;            /* Prevents content from stretching too wide */
+  box-sizing: border-box;     /* Ensures padding doesn't break layout */
 }
