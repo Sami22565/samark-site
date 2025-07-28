@@ -4897,3 +4897,37 @@ p {
   max-width: 700px;            /* Prevents content from stretching too wide */
   box-sizing: border-box;     /* Ensures padding doesn't break layout */
 }
+
+/* Grid "What Makes You Different" CSS */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.grid-item {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+}
+
+.grid-item h2 {
+  font-size: 1.4em;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.grid-item p {
+  font-size: 1em;
+  color: #555;
+  margin: 6px 0;
+}
+
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
