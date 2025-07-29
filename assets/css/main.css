@@ -4905,13 +4905,19 @@ p {
   gap: 30px;
   max-width: 1000px;
   margin: 0 auto;
+  padding: 0 16px; /* Add some horizontal breathing room */
 }
 
 .grid-item {
   background-color: #ffffff;
   padding: 25px;
   border-radius: 10px;
-  box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.grid-item:hover {
+  transform: translateY(-4px); /* Slight lift effect */
 }
 
 .grid-item h2 {
@@ -4924,10 +4930,25 @@ p {
   font-size: 1em;
   color: #555;
   margin: 6px 0;
+  line-height: 1.6; /* Improves readability on smaller screens */
 }
 
 @media (max-width: 768px) {
   .grid-container {
     grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 0 12px;
+  }
+
+  .grid-item {
+    padding: 20px;
+  }
+
+  .grid-item h2 {
+    font-size: 1.2em;
+  }
+
+  .grid-item p {
+    font-size: 0.95em;
   }
 }
