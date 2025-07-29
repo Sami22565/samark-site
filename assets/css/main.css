@@ -4905,7 +4905,7 @@ p {
   gap: 30px;
   max-width: 1000px;
   margin: 0 auto;
-  padding: 0 16px; /* Add some horizontal breathing room */
+  padding: 0 16px; /* Horizontal breathing room */
 }
 
 .grid-item {
@@ -4914,6 +4914,10 @@ p {
   border-radius: 10px;
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease;
+  display: flex; /* Flex to center content */
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  text-align: center;  /* Optional: center text within cards */
 }
 
 .grid-item:hover {
@@ -4930,7 +4934,7 @@ p {
   font-size: 1em;
   color: #555;
   margin: 6px 0;
-  line-height: 1.6; /* Improves readability on smaller screens */
+  line-height: 1.6;
 }
 
 @media (max-width: 768px) {
@@ -4942,6 +4946,8 @@ p {
 
   .grid-item {
     padding: 20px;
+    align-items: center; /* Maintain center alignment */
+    text-align: center;
   }
 
   .grid-item h2 {
