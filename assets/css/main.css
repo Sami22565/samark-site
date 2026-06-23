@@ -4706,17 +4706,17 @@ input, select, textarea {
 /* Mobile Optimization */
 /* === Mobile First Enhancements === */
 
-/* Fluid Root Font Scaling */
+/* Fluid Root Font Scaling *
 html {
   font-size: clamp(14px, 2vw, 16px);
 }
 
-/* Universal Box Sizing for Layout Consistency */
+/* Universal Box Sizing for Layout Consistency *
 *, *::before, *::after {
   box-sizing: border-box;
 }
 
-/* Touch-Friendly Buttons */
+/* Touch-Friendly Buttons *
 .button,
 input[type="submit"],
 input[type="button"],
@@ -4729,7 +4729,7 @@ input[type="reset"] {
   margin: 0.5rem auto;
 }
 
-/* Responsive Images */
+/* Responsive Images *
 img {
   max-width: 100%;
   height: auto;
