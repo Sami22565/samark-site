@@ -4726,7 +4726,7 @@ input[type="reset"] {
   min-width: 44px;
   min-height: 44px;
   display: block;
-  margin: 0.5rem auto;
+  /* margin: 0.5rem auto; */
 }
 
 /* Responsive Images */
