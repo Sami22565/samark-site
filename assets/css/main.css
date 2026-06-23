@@ -4706,7 +4706,7 @@ input, select, textarea {
 /* Mobile Optimization */
 /* === Mobile First Enhancements === */
 
-/* Fluid Root Font Scaling */
+/* Fluid Root Font Scaling *
 html {
   font-size: clamp(14px, 2vw, 16px);
 }
