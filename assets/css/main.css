@@ -4826,16 +4826,16 @@ p {
 .options-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 40px;
   justify-content: center;
   margin-top: 30px;
 }
 
 .option {
-  flex: 1 1 250px;
-  max-width: 320px;
+  flex: 1 1 280px;
+  max-width: 380px;
   border: 0px solid #ddd;
-  padding: 20px;
+  padding: 25px 30px;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
@@ -4850,6 +4850,7 @@ p {
   font-size: 0.95rem;
   color: #333;
   text-align: left;
+  line-height: 1.6;
 }
 
 /* .icon {
