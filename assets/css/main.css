@@ -4691,8 +4691,8 @@ input, select, textarea {
 /* Custom Logo Styling */
 .custom-logo {
   display: block !important;
-  text-align: center;
-  margin: 50px 0;
+  text-align: top;
+  margin: 400px 0;
 }
 
 .custom-logo img {
