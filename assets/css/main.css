@@ -4716,12 +4716,12 @@ html {
   box-sizing: border-box;
 }
 
-/* Touch-Friendly Buttons *
+/* Touch-Friendly Buttons */
 .button,
 input[type="submit"],
-input[type="button"], */
+input[type="button"],
 input[type="reset"] {
-  padding: 0.75rem 1.5rem;
+  padding: 0.75rem 0.75rem;
   font-size: 1rem;
   min-width: 44px;
   min-height: 44px;
