@@ -4716,7 +4716,7 @@ html {
   box-sizing: border-box;
 }
 
-/* Touch-Friendly Buttons */
+/* Touch-Friendly Buttons *
 .button,
 input[type="submit"],
 input[type="button"],
@@ -4726,10 +4726,10 @@ input[type="reset"] {
   min-width: 44px;
   min-height: 44px;
   display: block;
-  /* margin: 0.5rem auto; */
+  margin: 0.5rem auto; 
 }
 
-/* Responsive Images */
+/* Responsive Images *
 img {
   max-width: 100%;
   height: auto;
