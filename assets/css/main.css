@@ -3402,10 +3402,10 @@ input, select, textarea {
 		}
 
 			#intro + #header .logo {
-				-moz-transform: translateY(2rem);
-				-webkit-transform: translateY(2rem);
-				-ms-transform: translateY(2rem);
-				transform: translateY(2rem);
+				-moz-transform: translateY(1rem);
+				-webkit-transform: translateY(1rem);
+				-ms-transform: translateY(1rem);
+				transform: translateY(1rem);
 				opacity: 0;
 				visibility: hidden;
 			}
