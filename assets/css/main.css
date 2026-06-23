@@ -4697,7 +4697,7 @@ input, select, textarea {
 
 .custom-logo img {
   max-width: 350px;
-  height: auto;
+  height: 50px;
   display: inline-block;
 }
 
