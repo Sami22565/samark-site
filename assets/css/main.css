@@ -3402,10 +3402,10 @@ input, select, textarea {
 		}
 
 			#intro + #header .logo {
-				-moz-transform: translateY(1rem);
-				-webkit-transform: translateY(1rem);
-				-ms-transform: translateY(1rem);
-				transform: translateY(1rem);
+				-moz-transform: translateY(2rem);
+				-webkit-transform: translateY(2rem);
+				-ms-transform: translateY(2rem);
+				transform: translateY(2rem);
 				opacity: 0;
 				visibility: hidden;
 			}
@@ -3571,7 +3571,7 @@ input, select, textarea {
 			font-weight: 900;
 			letter-spacing: 0.075em;
 			line-height: 1;
-			padding: 1rem 1.75rem;
+			padding: 0.25rem 1rem;
 			text-transform: uppercase;
 			visibility: visible;
 		}
