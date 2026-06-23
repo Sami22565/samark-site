@@ -4849,6 +4849,7 @@ p {
 .option p {
   font-size: 0.95rem;
   color: #333;
+  text-align: left;
 }
 
 /* .icon {
