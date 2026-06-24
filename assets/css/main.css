@@ -4954,7 +4954,7 @@ p {
 /* Top Bar: logo + nav together, pinned at top of page    */
 /* ====================================================== */
 
-#topbar {
+/* #topbar {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -5015,4 +5015,4 @@ p {
   #topbar #nav {
     display: none;
   }
-}
+} */
