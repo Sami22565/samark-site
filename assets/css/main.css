@@ -4716,18 +4716,6 @@ html {
   box-sizing: border-box;
 }
 
-/* Touch-Friendly Buttons */
-.button,
-input[type="submit"],
-input[type="button"],
-input[type="reset"] {
-  padding: 0.75rem 0.75rem;
-  font-size: 1rem;
-  min-width: 44px;
-  min-height: 44px;
-  display: block;
-  margin: 0.5rem auto; 
-}
 
 /* Responsive Images */
 img {
