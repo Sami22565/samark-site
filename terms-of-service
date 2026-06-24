@@ -1,0 +1,229 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+	<script>function initApollo(){var n=Math.random().toString(36).substring(7),o=document.createElement("script");
+o.src="https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache="+n,o.async=!0,o.defer=!0,
+o.onload=function(){window.trackingFunctions.onLoad({appId:"6a393c5a82d9c6000c31c5dc"})},
+document.head.appendChild(o)}initApollo();</script>
+	<head>
+
+		<title>Terms of Service | Samark</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="Samark's Terms of Service and Service Agreement covering Google Maps Ranking, Local SEO, and Website Design services." />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Top Bar -->
+					<div id="topbar">
+						<a href="index.html" class="logo">
+							<img src="images/logo.png" alt="Samark Logo">
+						</a>
+						<nav id="nav">
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="Services.html">Services</a></li>
+								<li><a href="Area.html">Areas We Service</a></li>
+								<li><a href="Contact-Us.html">Contact</a></li>
+							</ul>
+						</nav>
+					</div>
+
+				<!-- Intro -->
+					<div id="intro">
+						<h3>Samark Is the Marketing agency to Choose!</h3>
+						<h1>Terms of Service</h1>
+						<h2>Service Agreement Between You and Samark</h2>
+						<p>Please read these terms carefully before engaging Samark for Google Maps Ranking, Local SEO, or Website Design services.</p>
+					</div>
+
+				<!-- Main -->
+					<div id="main">
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>Service Agreement</h2>
+							<p>This Service Agreement (&ldquo;Agreement&rdquo;) is made between you (the &ldquo;Client&rdquo;) and Samark (&ldquo;Samark,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;). By signing this Agreement, submitting payment, or otherwise engaging Samark for services, you agree to the terms below.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>1. Our Services</h2>
+							<p>Samark provides local marketing services designed to help your business generate more leads, calls, and customers. Depending on the package you select, services may include:</p>
+							<ul style="text-align:left; max-width: 700px; margin: 0 auto 2rem auto;">
+							  <li>Google Maps Ranking &mdash; Google Business Profile optimization, local citation building, review strategy, local authority building, and Map Pack ranking improvements.</li>
+							  <li>Local SEO &mdash; on-page SEO, service page optimization, keyword targeting, local content creation, and technical SEO improvements.</li>
+							  <li>Website Design &mdash; custom business websites, mobile-responsive design, fast-loading pages, lead generation layouts, and conversion optimization.</li>
+							</ul>
+							<p>The specific services included in your engagement will be outlined in your proposal, invoice, or onboarding materials. Samark reserves the right to determine the specific tactics and strategies used to achieve the agreed-upon goals.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>2. Ranking Goal &amp; Timeline</h2>
+							<p>For clients enrolled in a Google Maps ranking package, Samark will work toward achieving a top 3 ranking in the Google Maps &ldquo;Map Pack&rdquo; for the Client's primary target keyword and target service area (&ldquo;Target Area&rdquo;), as defined at the start of the engagement, within ninety (90) days of the start date defined in Section 6.</p>
+							<p>Rankings on Google Maps and Google Search are influenced by factors outside Samark's direct control, including but not limited to Google's algorithm changes, competitor activity, and the Client's own business practices (such as customer service and review responses). Samark will use commercially reasonable, industry-standard methods to pursue the ranking goal described above.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>3. Scope of Work</h2>
+							<p>Depending on the package selected, Samark's services may include:</p>
+							<ul style="text-align:left; max-width: 700px; margin: 0 auto 2rem auto;">
+							  <li>A complete audit and optimization of the Client's Google Business Profile.</li>
+							  <li>An optional website build with on-page SEO included.</li>
+							  <li>Development of a strategic review generation system.</li>
+							  <li>Weekly content and post planning for the Client's Google Business Profile.</li>
+							  <li>Competitive analysis and positioning within the Client's local market.</li>
+							  <li>Weekly ranking reports and progress updates.</li>
+							  <li>Ongoing support, optimization, and adjustments throughout the engagement period.</li>
+							</ul>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>4. Client Responsibilities &amp; Access</h2>
+							<p>To perform the services described above, Samark requires administrative access to the Client's Google Business Profile and, where applicable, the Client's website and hosting account. Samark will notify the Client in advance of any major or structural changes before they are made.</p>
+							<p>Once payment has been received, Samark will provide the Client with detailed instructions for securely granting the necessary access. The 90-day period described in Section 2 begins once Samark has received the access described in this section. Delays in granting access will result in a corresponding delay to the start of the engagement and any associated timelines.<br><br>The Client is responsible for providing accurate business information, timely responses to requests (such as review responses or content approval), and maintaining any third-party accounts (such as Google Business Profile or hosting) in good standing.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>5. Ranking Guarantee</h2>
+							<p>If the Client's business has not achieved the agreed-upon ranking goal (top 3 placement in the Google Maps Map Pack, or first-page Google Search ranking, whichever applies to the Client's package) for the agreed-upon Target Area and primary keyword within ninety (90) days, Samark will pause billing for the Client's account until the goal is achieved.</p>
+							<p>Billing will resume, starting from the next full billing cycle, once the ranking goal has been met. This guarantee applies only where the Client has met its responsibilities under Section 4, including providing and maintaining the necessary access, and has not made independent changes to its Google Business Profile, website, or SEO setup that conflict with Samark's work.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>6. Term, Billing &amp; Start Date</h2>
+							<p>The engagement begins on the date Samark receives full account access as described in Section 4 (the &ldquo;Start Date&rdquo;). Following execution of this Agreement, Samark will issue an invoice for the agreed-upon package price.</p>
+							<ul style="text-align:left; max-width: 700px; margin: 0 auto 2rem auto;">
+							  <li>Bank transfer / ACH</li>
+							  <li>PayPal / Apple Pay</li>
+							  <li>All major credit cards</li>
+							</ul>
+							<p>Within 24 hours of receiving payment, Samark will send the Client an onboarding email outlining next steps. Services are billed on a recurring basis (e.g., monthly) unless otherwise specified in the Client's proposal or invoice.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>7. Industry Exclusivity</h2>
+							<p>During the term of this Agreement, Samark agrees not to provide Google Maps ranking, Local SEO, or Website Design services to any other business that directly competes with the Client within the same industry and the same Target Area, as defined at the start of the engagement.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>8. Cancellation</h2>
+							<p>Either party may cancel this Agreement with written notice as specified in the Client's proposal or invoice. The Client remains responsible for payment of services rendered up to the effective date of cancellation. Cancellation does not entitle the Client to a refund of fees already paid for work completed or in progress, except as expressly provided under the guarantee in Section 5.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>9. No Guarantee of Revenue or Specific Business Outcomes</h2>
+							<p>While Samark guarantees the ranking outcome described in Section 5 (subject to the conditions in that section), Samark does not guarantee any specific number of leads, phone calls, bookings, sales, or revenue. Marketing results depend on many factors outside Samark's control, including the Client's pricing, sales process, customer service, market conditions, and competitor behavior.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>10. Ownership of Work Product</h2>
+							<p>Upon full payment for services rendered, the Client owns the content, website files, and materials created specifically for the Client as part of this engagement, excluding any third-party software, themes, plugins, stock assets, or licensed tools used in their creation, which remain subject to their original licenses. Samark retains the right to reference completed work for general portfolio and marketing purposes unless the Client requests otherwise in writing.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>11. Confidentiality</h2>
+							<p>Each party agrees to keep confidential any non-public business, financial, or strategic information disclosed by the other party during the engagement, and to use such information only for the purposes of this Agreement.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>12. Limitation of Liability</h2>
+							<p>Samark's total liability under this Agreement, for any claim arising out of or related to the services provided, is limited to the total fees paid by the Client to Samark in the three (3) months preceding the claim. Samark is not liable for indirect, incidental, special, or consequential damages, including lost profits or lost business opportunities.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>13. Independent Contractor Relationship</h2>
+							<p>Samark is an independent contractor, not an employee, partner, or agent of the Client. Nothing in this Agreement creates a joint venture, partnership, or employment relationship between the parties.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>14. Governing Law</h2>
+							<p>This Agreement is governed by the laws of the State of Illinois, without regard to its conflict of law principles, unless otherwise required by applicable law.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>15. Entire Agreement</h2>
+							<p>This Agreement, together with any proposal, invoice, or onboarding documentation referenced herein, constitutes the entire agreement between the Client and Samark regarding the services described, and supersedes any prior discussions or agreements, whether written or verbal.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>16. Acceptance</h2>
+							<p>By using this website, submitting a form, signing a proposal, or otherwise engaging Samark's services, the Client acknowledges that they have read, understood, and agree to be bound by the terms of this Agreement.</p>
+						</header>
+					</article>
+
+					<article class="post featured">
+						<header class="major">
+						    <h2>Questions About These Terms?</h2>
+						    <p>If you have any questions about this Agreement or your engagement with Samark, contact us before signing or submitting payment.</p>
+						</header>
+						  <ul class="actions special">
+						    <li><a href="Contact-Us.html" class="button large">Contact Us</a></li>
+						</ul>
+					</article>
+
+			</div>
+
+			<!-- Footer Logo -->
+				<header id="header">
+			  	   <div class="custom-logo">
+		 		     <img src="images/logo.png" alt="Samark Logo">
+			           </div>
+				</header>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
