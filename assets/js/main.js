@@ -217,34 +217,34 @@
 
 			// Hide intro on scroll (> small).
 			breakpoints.on('>small', function() {
-   			 	$main.unscrollex();
+    			$main.unscrollex();
     			$main.scrollex({
         			mode: 'bottom',
-       			 	top: '275vh',
-        			bottom: '-250vh',
+        			top: '25vh',
+        			bottom: '-50vh',
         			enter: function() {
             			$intro.addClass('hidden');
         			},
         			leave: function() {
-            			$intro.removeClass('hidden');
+            				$intro.removeClass('hidden');
         			}
     			});
 			});
 
 			// Hide intro on scroll (<= small).
 			breakpoints.on('<=small', function() {
-    			$main.unscrollex();
+    				$main.unscrollex();
     			$main.scrollex({
         			mode: 'middle',
-        			top: '245vh',
-        			bottom: '-245vh',
+        			top: '15vh',
+        			bottom: '-15vh',
         			enter: function() {
             			$intro.addClass('hidden');
         			},
         			leave: function() {
             			$intro.removeClass('hidden');
         			}
-    			});
+   				 });
 			});
 
 		}
