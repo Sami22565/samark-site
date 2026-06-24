@@ -220,8 +220,8 @@
     			$main.unscrollex();
     			$main.scrollex({
         			mode: 'bottom',
-        			top: '75vh',
-        			bottom: '-150vh',
+        			top: '50vh',
+        			bottom: '-100vh',
         			enter: function() {
            			 $intro.addClass('hidden');
         			},
@@ -236,8 +236,8 @@
 			    $main.unscrollex();
 			    $main.scrollex({
 			        mode: 'middle',
-			        top: '45vh',
-			        bottom: '-45vh',
+			        top: '30vh',
+			        bottom: '-30vh',
    			     enter: function() {
    			         $intro.addClass('hidden');
    			     },
