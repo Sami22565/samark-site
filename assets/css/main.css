@@ -4706,7 +4706,7 @@ input, select, textarea {
 /* Mobile Optimization */
 /* === Mobile First Enhancements === */
 
-/* Fluid Root Font Scaling *
+/* Fluid Root Font Scaling */
 html {
   font-size: clamp(14px, 2vw, 16px);
 }
@@ -4716,7 +4716,7 @@ html {
   box-sizing: border-box;
 }
 
-/* Touch-Friendly Buttons *
+/* Touch-Friendly Buttons */
 .button,
 input[type="submit"],
 input[type="button"],
@@ -4729,7 +4729,7 @@ input[type="reset"] {
   margin: 0.5rem auto; 
 }
 
-/* Responsive Images *
+/* Responsive Images */
 img {
   max-width: 100%;
   height: auto;
@@ -4862,7 +4862,8 @@ p {
 }
 */
 
-/* Custom icon placeholders — you can replace these with SVGs or image URLs 
+/* Custom icon placeholders — you can replace these with SVGs or image URLs */
+/*
 .icon-yourself { background-image: url('yourself-icon.svg'); background-size: cover; }
 .icon-staff { background-image: url('staff-icon.svg'); background-size: cover; }
 .icon-agency { background-image: url('agency-icon.svg'); background-size: cover; }
@@ -4959,5 +4960,71 @@ p {
 
   .grid-item p {
     font-size: 0.95em;
+  }
+}
+
+/* ====================================================== */
+/* Top Bar: logo + nav together, pinned at top of page    */
+/* ====================================================== */
+
+#topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(0,0,0,0.3);
+  padding: 1rem 2rem;
+  position: relative;
+  z-index: 5;
+}
+
+#topbar .logo {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  color: #ffffff;
+  border-bottom: 0;
+}
+
+#topbar .logo:hover {
+  color: #18bfef !important;
+}
+
+#topbar #nav {
+  margin: 0;
+  background: transparent;
+  height: auto;
+  width: auto;
+  padding: 0;
+  display: flex;
+}
+
+#topbar #nav ul.links {
+  display: flex;
+  margin: 0;
+  padding-left: 0;
+}
+
+#topbar #nav ul.links li {
+  padding-left: 0;
+}
+
+#topbar #nav ul.links li a {
+  padding: 0 1.25rem;
+  font-size: 0.8rem;
+}
+
+#topbar #nav ul.links li.active {
+  background-color: transparent;
+}
+
+#topbar #nav ul.links li.active a {
+  color: #18bfef;
+}
+
+@media screen and (max-width: 980px) {
+  #topbar #nav {
+    display: none;
   }
 }
