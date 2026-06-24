@@ -5017,3 +5017,7 @@ p {
     display: none;
   }
 }
+
+#footer .logo img {
+  filter: invert(1);
+}
